@@ -9,3 +9,15 @@ nav ul li {
 	display: inline;
 }
 
+nav ul {
+	padding-left: 0;
+	margin-left: 0;
+	background-color: black;
+	color: White;
+	float: left;
+	width: 100%;
+	margin-top: 0;
+	padding-top: 0;
+	margin-left: 0;
+	padding-left: 0;
+}
