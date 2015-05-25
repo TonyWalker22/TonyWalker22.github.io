@@ -5,6 +5,14 @@ body {
 	margin: 5px 100px;
 }
 
+#mainContent {
+	background-color: #FFD700;
+	margin: 40px 100px;
+	padding: 20px; 30px;
+	border: solid;
+	border-radius: 25px;
+}
+
 nav ul li {
 	display: inline;
 }
