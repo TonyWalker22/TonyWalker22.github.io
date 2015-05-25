@@ -1,12 +1,12 @@
 body {
     font-size: 14px;
     color: #FFD700;
-	background-color: #008000;
+	background-color: #DAA520;
 	margin: 5px 100px;
 }
 
 #mainContent {
-	background-color: #FFD700;
+	background-color: #008000;
 	margin: 40px 100px;
 	padding: 20px; 30px;
 	border: solid;
